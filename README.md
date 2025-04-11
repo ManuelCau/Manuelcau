@@ -16,7 +16,7 @@ Hi, I'm Manuel Cau, a Junior Full Stack Developer 🚀 from Italy, currently, I'
 - 👨🏽‍💻 I’m currently working on agile project team, a website about space travels;
 - 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help or knew new people;
-- 📫 How to reach me: caumanuel10@gmail.com;
+- 📫 How to reach me: manuel.cau106@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1yCkE5_EBp3vGmtSedhGwc6xhKJOTfXI1/view?usp=drive_link)
 
 **Languages and Tools:**  
