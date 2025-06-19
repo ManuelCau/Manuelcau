@@ -7,17 +7,16 @@
 <br />
 <br />
 
-Hi, I'm Manuel Cau, a Junior Full Stack Developer 🚀 from Italy, currently, I'm a Develhope student and Graphic designer! Beside's programming, I enjoy music, seafishing and traveling.
+Hi, I'm Manuel Cau, a Junior FrontEnd Developer 🚀 from Italy, I'm a Graphic designer 
+Beside's programming, I enjoy music, seafishing and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on agile project team, a website about space travels;
 - 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help or knew new people;
 - 📫 How to reach me: manuel.cau106@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1yCkE5_EBp3vGmtSedhGwc6xhKJOTfXI1/view?usp=drive_link)
 
 **Languages and Tools:**  
 
