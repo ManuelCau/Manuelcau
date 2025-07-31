@@ -14,8 +14,6 @@ Beside's programming, I enjoy music, seafishing and traveling.
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React; 
-- 💬 Ask me about anything, I am happy to help or knew new people;
 - 📫 How to reach me: manuel.cau106@gmail.com;
 
 **Languages and Tools:**  
