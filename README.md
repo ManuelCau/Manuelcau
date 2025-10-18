@@ -1,9 +1,5 @@
 ### Hey 👋🏽, I'm Manuel!
 
-<a href="https://www.linkedin.com/in/manuelcau10">
-  <img align="left" alt="Manuel Cau's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br />
 <br />
 
@@ -12,7 +8,6 @@ Beside's programming, I enjoy music, fishing and 3D modeling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
 
 - 📫 How to reach me: manuel.cau106@gmail.com;
 
