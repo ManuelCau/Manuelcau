@@ -8,7 +8,7 @@
 <br />
 
 Hi, I'm Manuel Cau, a Junior FrontEnd Developer 🚀 from Italy, I'm a Graphic designer 
-Beside's programming, I enjoy music, seafishing and traveling.
+Beside's programming, I enjoy music, fishing and 3D modeling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
